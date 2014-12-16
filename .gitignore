@@ -1,0 +1,13 @@
+target/
+.settings
+.idea
+*.iml
+*/.project
+.project
+*/.classpath
+.classpath
+logs/
+*/logs/**
+bin/
+nb-configuration.xml
+MANIFEST.MF
